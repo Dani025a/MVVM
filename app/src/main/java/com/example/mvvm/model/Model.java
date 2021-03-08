@@ -3,6 +3,7 @@ package com.example.mvvm.model;
 import java.util.Observable;
 
 public class Model extends Observable {
+
     private String text;
 
     public Model() {

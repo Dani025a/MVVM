@@ -16,7 +16,7 @@
             android:layout_marginTop="32dp" app:layout_constraintStart_toStartOf="parent"
             android:layout_marginLeft="32dp" android:layout_marginStart="32dp"
             app:layout_constraintHorizontal_bias="0.498" app:layout_constraintVertical_bias="0.222"
-            android:onClick="editText"/>
+            android:onClick="enterInput"/>
     <TextView
             android:text="TextView"
             android:layout_width="151dp"
